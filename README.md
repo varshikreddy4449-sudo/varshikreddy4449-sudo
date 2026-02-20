@@ -2,41 +2,45 @@
 
 🎓 BTech Student  
 ☁ Aspiring Salesforce Developer & Administrator  
-📍 Focused on CRM Development and Automation  
+🤖 Building AI-powered solutions  
 
 ---
 
 ## 🚀 About Me
-I’m building hands-on skills in Salesforce development and administration.
-I’m focused on creating efficient CRM solutions, automation workflows, and scalable business processes.
+I focus on Salesforce CRM development and administration.
+Alongside CRM systems, I build AI-based applications that solve real-world business and agriculture problems.
 
 ---
 
 ## 🛠 Salesforce Skills
 
-### 🔹 Development
+### Development
 - Apex (Basics)
 - Lightning Web Components (LWC)
-- SOQL & SOSL
+- SOQL
 - Triggers (Learning)
 
-### 🔹 Administration
+### Administration
 - User & Role Management
-- Profiles & Permission Sets
-- Workflow Rules & Flow Automation
+- Flow Automation
 - Validation Rules
 - Reports & Dashboards
-- Object & Field Customization
+- Custom Objects & Fields
 
 ---
 
-## 📌 Projects
-- CRM Automation using Flows
-- Custom Object & Validation Rule Implementation
-- LWC-Based UI Component
-- Apex Practice Classes & Triggers
+## 🤖 AI Projects
+
+### 🔹 Varix AI Assistant
+AI-powered intelligent assistant designed to automate workflows and improve productivity.
+
+### 🔹 AgriSahay
+Agriculture-focused AI platform providing crop insights and smart recommendations.
+
+### 🔹 AI Team Manager
+AI-driven task and team productivity management system.
 
 ---
 
 ## 🎯 Career Goal
-To become a skilled Salesforce Developer & Admin and build scalable CRM solutions that solve real business problems.
+To become a Salesforce Developer who integrates AI with CRM systems to build intelligent enterprise solutions.
