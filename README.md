@@ -1,44 +1,42 @@
 # Hi, I'm Varshik 👋
 
 🎓 BTech Student  
-☁ Aspiring Salesforce Developer  
-💻 Frontend & CRM Enthusiast  
+☁ Aspiring Salesforce Developer & Administrator  
+📍 Focused on CRM Development and Automation  
 
 ---
 
 ## 🚀 About Me
-I’m focused on building CRM solutions and improving user-facing web applications.
-Currently learning Salesforce development and modern web technologies.
+I’m building hands-on skills in Salesforce development and administration.
+I’m focused on creating efficient CRM solutions, automation workflows, and scalable business processes.
 
 ---
 
-## 🛠 Technical Skills
+## 🛠 Salesforce Skills
 
-### Programming
-- Learning Apex
-- SQL (Basics)
-- Python
-### Web Development
-- React
-- HTML
-- CSS
-- REST APIs (Understanding & Integration)
-
-### Salesforce
-- Apex (Learning)
+### 🔹 Development
+- Apex (Basics)
 - Lightning Web Components (LWC)
-- SOQL
-- Workflow & Process Automation
-- CRM Customization
+- SOQL & SOSL
+- Triggers (Learning)
+
+### 🔹 Administration
+- User & Role Management
+- Profiles & Permission Sets
+- Workflow Rules & Flow Automation
+- Validation Rules
+- Reports & Dashboards
+- Object & Field Customization
 
 ---
 
 ## 📌 Projects
-- React Frontend Application
-- Salesforce CRM Customization Project
-- API Integration Practice Project
+- CRM Automation using Flows
+- Custom Object & Validation Rule Implementation
+- LWC-Based UI Component
+- Apex Practice Classes & Triggers
 
 ---
 
-## 🎯 Goal
-To build scalable CRM and cloud-based solutions with strong business impact.
+## 🎯 Career Goal
+To become a skilled Salesforce Developer & Admin and build scalable CRM solutions that solve real business problems.
