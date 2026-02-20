@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi, I'm Varshik 👋
 
-<!--
-**varshikreddy4449-sudo/varshikreddy4449-sudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BTech Student  
+☁ Aspiring Salesforce Developer  
+💻 Frontend & CRM Enthusiast  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+I’m focused on building CRM solutions and improving user-facing web applications.
+Currently learning Salesforce development and modern web technologies.
+
+---
+
+## 🛠 Technical Skills
+
+### Programming
+- Learning Apex
+- SQL (Basics)
+- Python
+### Web Development
+- React
+- HTML
+- CSS
+- REST APIs (Understanding & Integration)
+
+### Salesforce
+- Apex (Learning)
+- Lightning Web Components (LWC)
+- SOQL
+- Workflow & Process Automation
+- CRM Customization
+
+---
+
+## 📌 Projects
+- React Frontend Application
+- Salesforce CRM Customization Project
+- API Integration Practice Project
+
+---
+
+## 🎯 Goal
+To build scalable CRM and cloud-based solutions with strong business impact.
